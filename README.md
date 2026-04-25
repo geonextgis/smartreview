@@ -8,6 +8,8 @@
 rank a large corpus of research papers by how closely they match a free-text description of
 your research interests.
 
+![SmartReview Poster](assets/poster.png)
+
 ---
 
 ## Features
